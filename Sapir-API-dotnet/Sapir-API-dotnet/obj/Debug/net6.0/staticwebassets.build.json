@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Db0TR3XB4A86VJWbNWW76CkXeKfBxZCqIkBfBeqilxk=",
+  "Source": "Sapir-API-dotnet",
+  "BasePath": "_content/Sapir-API-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
